@@ -29,7 +29,9 @@ ____
     Ссылка на курс на сайт
 </a>
 
-
+<br>
+<br>
+<br>
 <p align="center">
  <img width="600" src="https://itproger.com/img/intensivs/python.svg" alt="python"/>
 </p>
